@@ -1,6 +1,7 @@
 # Warsztaty DevOps dla studentów
 
 ## Wymagania sprzętowe
+Hello World
 
 ### Windows
 
